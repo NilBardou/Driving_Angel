@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "114136472709",
+    "firebase_url": "https://driving-angel.firebaseio.com",
+    "project_id": "driving-angel",
+    "storage_bucket": "driving-angel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114136472709:android:6a02c10483ef400183ddec",
+        "android_client_info": {
+          "package_name": "com.nilbardou.drivingangel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114136472709-r9b0igkd55rumqjaband0r2g6dpmvb56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8d2tsbK4PO4KoUxOJZOWqcazjxUScUFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114136472709-r9b0igkd55rumqjaband0r2g6dpmvb56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

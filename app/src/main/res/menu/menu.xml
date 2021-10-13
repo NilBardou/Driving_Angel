@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/trayecto"
+        android:title="Trayecto"
+        android:icon="@drawable/ic_trayecto" />
+
+    <item
+        android:id="@+id/mapa"
+        android:title="Mapa"
+        android:icon="@drawable/ic_mapa" />
+
+    <item
+        android:id="@+id/historial"
+        android:title="Historial"
+        android:icon="@drawable/ic_historial" />
+
+    <item
+        android:id="@+id/perfil"
+        android:title="Perfil"
+        android:icon="@drawable/ic_perfil" />
+
+
+</menu>
